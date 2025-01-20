@@ -1,4 +1,4 @@
-![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://github.com/Moh-Sad/moh-sad/blob/main/Fullsatck.gif))
+![MasterHead](https://github.com/Moh-Sad/moh-sad/blob/main/Fullsatck.gif)
 <h1 align="center">Hi 👋, I'm Mohammed Sadik</h1>
 <h3 align="center">A passionate Fullstack developer.</h3>
 
