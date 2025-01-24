@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moh-sad&show_icons=true&locale=en&layout=compact" alt="moh-sad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moh-sad&show_icons=true&locale=en" alt="moh-sad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moh-sad&" alt="moh-sad" /></p>
